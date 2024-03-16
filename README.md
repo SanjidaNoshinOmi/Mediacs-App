@@ -57,3 +57,6 @@ Resolve the errors and warnings that are shown in the application.
 ### Support
 
 If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+
+### Screnshot of App UI
+![Image Alt text]('Images/Group 146-1.png'"ScreenShot")
